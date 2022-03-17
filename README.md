@@ -1,4 +1,4 @@
-### <h1>💬Oiii eu sou a Maria SIlvania Lima</h1>
+### <h1>💬Oiii eu sou a Maria Silvania Lima</h1>
 <h4>Trabalho como Front-End na empresa Lapaza</h4>
 
 <div>
