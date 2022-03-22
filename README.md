@@ -30,7 +30,7 @@
      <img align="justify-content=end" alt="" height="50"width="50" src="https://github.com/silpinksa/personal_site/blob/main/emoji.jpeg"> 
   </div>
   
-   ![Snake animation](https://github.com/silvanialima/silvanialima/blob/out/github-contribution-grid-snake.svg) 
+   ![Snake animation](https://github.com/silpinksa/silpinksa/blob/out/github-contribution-grid-snake.svg) 
     
  
 
